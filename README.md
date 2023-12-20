@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/kelvinsa2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
   </a>
-  <a href="https://www.instagram.com/_kelviinsa/" target="_blank">
+  <a href="https://www.instagram.com/kelviinsa/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat&logo=instagram">
   </a>
   <a href="mailto:kelvinsaputra599@gmail.com">
