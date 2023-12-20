@@ -21,7 +21,7 @@
 
 <h2>📫 Get in Touch</h2>
 <div>
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kelvinsa2/"></img>
-  <img src="https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/_kelviinsa/"></img>
-  <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=flat&logo=gmail)](mailto:kelvinsaputra599@gmail.com"></img>
+  <img src="[https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kelvinsa2/"></img>
+  <img src="[https://img.shields.io/badge/Instagram-Follow-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/_kelviinsa/"></img>
+  <img src="[https://img.shields.io/badge/Email-Send%20Mail-D14836?style=flat&logo=gmail)](mailto:kelvinsaputra599@gmail.com"></img>
 </div>
